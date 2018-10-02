@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Products_Management.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dell</Value>
+    </Setting>
+    <Setting Name="DATABASE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Product_DB</Value>
+    </Setting>
+    <Setting Name="MODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQL</Value>
+    </Setting>
+    <Setting Name="USERID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mshafie</Value>
+    </Setting>
+    <Setting Name="PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MohamedShaf3e</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

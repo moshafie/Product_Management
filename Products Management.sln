@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products Management", "Products Management\Products Management.csproj", "{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{40A6703C-590C-4CFF-87DD-5D5A6127750B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.CD_ROM|x86.ActiveCfg = Release|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.CD_ROM|x86.Build.0 = Release|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.Debug|x86.ActiveCfg = Debug|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.Debug|x86.Build.0 = Debug|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.DVD-5|x86.ActiveCfg = Debug|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.DVD-5|x86.Build.0 = Debug|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.Release|x86.ActiveCfg = Release|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.Release|x86.Build.0 = Release|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.SingleImage|x86.ActiveCfg = Release|x86
+		{DD5ECAA2-9446-426F-97D7-E2CF87DDCBFD}.SingleImage|x86.Build.0 = Release|x86
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.CD_ROM|x86.Build.0 = CD_ROM
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.Debug|x86.ActiveCfg = DVD-5
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.Debug|x86.Build.0 = DVD-5
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.DVD-5|x86.ActiveCfg = DVD-5
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.DVD-5|x86.Build.0 = DVD-5
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.Release|x86.ActiveCfg = SingleImage
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.Release|x86.Build.0 = SingleImage
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.SingleImage|x86.ActiveCfg = SingleImage
+		{40A6703C-590C-4CFF-87DD-5D5A6127750B}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
